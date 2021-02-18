@@ -1,0 +1,17 @@
+{
+    "expectations": [
+        {
+            "expectation_type": "expect_table_row_count_to_be_between",
+            "kwargs": {
+                "min_value": 250,
+                "max_value": 350
+            },
+            "meta": {}
+        }
+    ],
+    "data_asset_type": "Dataset",
+    "meta": {
+        "great_expectations_version": "0.13.10"
+    },
+    "expectation_suite_name": "default"
+}
